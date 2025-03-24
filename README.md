@@ -1,4 +1,4 @@
-### A Program to Learn Queue in Data Structure
+### A Program to Learn Stack in Data Structure
 
 #### Clone the Repository
 
